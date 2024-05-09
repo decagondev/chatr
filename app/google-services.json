@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550280491787",
+    "project_id": "chatr-e526c",
+    "storage_bucket": "chatr-e526c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550280491787:android:5079ffbb6d919c9684280e",
+        "android_client_info": {
+          "package_name": "com.example.chatr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAujitmrkHYmVOF-AR21JAVrOv_LyJTDko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
